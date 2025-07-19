@@ -15,11 +15,11 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.7</java.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<slf4j.version>1.7.7</slf4j.version>
 		<log4j.version>1.2.17</log4j.version>
 
-		<spring.version>6.1.14</spring.version>
+		<spring.version>6.1.20</spring.version>
 		<spring.data.jpa.version>3.2.11</spring.data.jpa.version>
 		<cglib.version>2.1_3</cglib.version>
 
